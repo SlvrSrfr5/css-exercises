@@ -1,0 +1,21 @@
+.headings {
+    background-color: #ffb6c1;
+    font-family: Verdana, DejaVu Sans, sans-serif;   
+}
+
+.emphasis {
+    font-size: 24px;
+}
+
+#large-heading {
+    color: hsl(240, 100%, 50%);
+    font-family: futura, sans-serif;
+    font-size: 36px;
+}
+
+#bold-heading {
+    background-color: rgb(62, 230, 53);
+    font-family: futura, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
